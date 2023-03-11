@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "376193701894",
+    "firebase_url": "https://travel-app-ad5c5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "travel-app-ad5c5",
+    "storage_bucket": "travel-app-ad5c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376193701894:android:26ea26ef2dc30e2bcc8b87",
+        "android_client_info": {
+          "package_name": "com.alooosh.travel_bus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376193701894-k87m0su4khlcsgrbgu4d0hccql4ludb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnIeCqMyuLR6uTtYxExlC5Ey3bgGKG2HE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376193701894-k87m0su4khlcsgrbgu4d0hccql4ludb0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "376193701894-lmhd8grikpe3lhuf1er3i7visfe78uek.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.travelBus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
